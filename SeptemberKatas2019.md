@@ -1,7 +1,7 @@
 # September Katas 2019
 
 ## Beginner's Kata: 
-via [RosettaCode][https://rosettacode.org/wiki/Guess_the_number]
+via [RosettaCode](https://rosettacode.org/wiki/Guess_the_number)
 
 > Write a program where the program chooses a number between   1   and   10.
 
@@ -13,7 +13,7 @@ via [RosettaCode][https://rosettacode.org/wiki/Guess_the_number]
 
 
 ## Experienced Kata: 
-via [RosettaCode][https://rosettacode.org/wiki/Guess_the_number]
+via [RosettaCode](https://rosettacode.org/wiki/Guess_the_number)
 
 > Create a four digit random number from the digits   1   to   9,   without duplication.
 
