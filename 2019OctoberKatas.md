@@ -4,6 +4,7 @@
 Halloween Menagerie 
 
 Create a program that generate the inventory of a spooky pet shop 
+
 The program should: 
  * randomly generate a list of 3 creepy pets available when the user starts up the program (Have fun with options, anything from snakes to trolls is totally kosher)
  * present the list of available pets for the user to choose from and prompt them to make a selection 
