@@ -1,4 +1,4 @@
-# Novemer Katas 2019
+# November Katas 2019
 
 ## Beginner's Kata:
 Word Count
